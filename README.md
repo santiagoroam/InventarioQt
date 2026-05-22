@@ -43,19 +43,19 @@ Este proyecto fue desarrollado como proyecto final del curso **Algoritmos en Sis
 
 ## Interfaz Principal
 
-![Interfaz](imagenes/interfaz.png)
+
 
 ---
 
 ## Dashboard y Estadísticas
 
-![Dashboard](imagenes/dashboard.png)
+
 
 ---
 
 ## Exportación CSV
 
-![CSV](imagenes/csv.png)
+
 
 ---
 
@@ -187,7 +187,7 @@ santiago.ramezquita@mail.escuelaing.edu.co
 
 Repositorio oficial del proyecto:
 
-:contentReference[oaicite:0]{index=0}
+https://github.com/santiagoroam/InventarioQt.git
 
 ---
 
