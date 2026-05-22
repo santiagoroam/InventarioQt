@@ -1,0 +1,4 @@
+ID;Nombre;Tipo;Cantidad;Ubicacion;Estado
+1;Mouse;Electronico;10;Caja A;OK
+2;Teclado;Electronico;2;Caja B;STOCK BAJO
+3;Mbot;Robot;10;Caja B;OK
